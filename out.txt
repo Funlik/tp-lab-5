@@ -1,4 +1,4 @@
-PMI1
+PI1
 average mark in group: 4
 id: 1 fio: Zachary Justin Gray average mark: 4
 id: 5 fio: James Xavier Ross average mark: 4
@@ -21,7 +21,7 @@ id: 27 fio: Isabella Vanessa Edwards average mark: 5
 id: 29 fio: Victoria Michelle Clark average mark: 4
 id: 30 fio: Emma Rebecca Richardson average mark: 4
 
-PMI2
+PI2
 average mark in group: 4
 id: 32 fio: Xavier Cody Bennett average mark: 4
 id: 33 fio: Samuel Julian Wilson average mark: 4
